@@ -1,0 +1,3 @@
+This person's Audio Aura will be a high energy and danceability songs listener.
+
+We can better calculate the Audio Aura if we also count the amount of times the person listened to each song.
